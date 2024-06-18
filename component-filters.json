@@ -28,7 +28,8 @@
       "hero",
       "cards",
       "columns",
-      "form"
+      "form",
+      "form-embed"
     ]
   },
   {
@@ -49,11 +50,12 @@
       "drop-down",
       "radio-group",
       "email",
-      "fragment",
+      "form-fragment",
       "form-button",
       "form-image",
       "form-submit-button",
-      "form-reset-button"
+      "form-reset-button",
+      "file-input"
     ]
   }
 ]
